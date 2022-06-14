@@ -1,7 +1,7 @@
 
-<div align="center">
-  
-![header](https://capsule-render.vercel.app/api?text=JAEWON&fontColor=d6ace6&stroke=00FF00)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=B897FF&height=300&section=header&text=FRONT-END&fontSize=90&stroke=00FF00&strokeWidth=2&fontColor=e6dbff)
+
 
 Hi~
 
