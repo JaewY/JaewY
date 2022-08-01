@@ -3,8 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=B897FF&height=300&section=header&text=FRONT-END&fontSize=90&stroke=00FF00&strokeWidth=2&fontColor=e6dbff)
 
 
-Hi~
-
 ### Tech Stack 
  <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></span>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -22,7 +20,6 @@ Hi~
 <br>
 
 ![JaewY's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaewY&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaewY&layout=compact&theme=onedark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
